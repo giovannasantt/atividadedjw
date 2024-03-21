@@ -1,0 +1,11 @@
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\bin\Debug\ProjetoExemplo.exe.config
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\bin\Debug\ProjetoExemplo.exe
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\bin\Debug\ProjetoExemplo.pdb
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.csproj.AssemblyReference.cache
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.Properties.Resources.resources
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.csproj.GenerateResource.cache
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.csproj.CoreCompileInputs.cache
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.exe
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.pdb
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.Form2.resources
+C:\Users\2jd\Documents\Gabriel L. Giovanna\ProjetoExemplo\ProjetoExemplo\obj\Debug\ProjetoExemplo.Form1.resources
